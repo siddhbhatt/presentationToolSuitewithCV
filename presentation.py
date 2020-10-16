@@ -13,7 +13,7 @@ def mouse():
     kernel = np.ones((5,5), np.uint8)
     x1,y1 = 50,50
 
-    win = gw.getWindowsWithTitle('CR-317 DTM Preprocessor Changes v0.2.pptx - PowerPoint')[0]
+    win = gw.getWindowsWithTitle('title1.pptx - PowerPoint')[0]
     win.minimize()
     win.restore()
     pyautogui.press(['shift', 'f5'])
