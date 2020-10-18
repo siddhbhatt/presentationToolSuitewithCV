@@ -43,7 +43,7 @@ def mouse():
             cv2.circle(img=roi_fg, center=extTop, radius=20, color=(255,0,0),thickness =-1)
             x1 = math.ceil(extTop[0]/roi_fg.shape[1]*widthScr)
             y1 = math.ceil(extTop[1]/roi_fg.shape[0]*heightScr)
-            pyautogui.moveTo(x1, y1)
+            pyautogui.moveTo(x1, y1, duration = 0.5)        #added duration delay of 0.5s
         except:
             pass
         #merge to orginal frame
