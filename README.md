@@ -1,4 +1,4 @@
-<h1 align="center">Powerpoint presentation tool-suite with gesture and audio</h1>
+<h1 align="center">Presentation tool-suite with Computer Vision and Speech Recognition</h1>
 
 ## Description
 The tool performs the following:  
