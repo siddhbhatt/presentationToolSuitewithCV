@@ -4,7 +4,7 @@
 The tool performs the following:  
 (1) Opens ppt in slide show mode (pl open 1 ppt at a time)  
 (2) Allows to control cursor by finger tip of your right hand  
-(3) Moves slides with the commands defined in rules  
+(3) Moves slides with the action words defined in rules  
 
 ### [Please see demo video](https://www.youtube.com/watch?v=X1D0ceIVELw)
 
